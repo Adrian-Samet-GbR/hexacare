@@ -53,7 +53,3 @@ web_server:
 # In combination with the `ap` this allows the user
 # to provision wifi credentials to the device.
 captive_portal:
-
-# Sets up the improv via serial client for Wi-Fi provisioning
-improv_serial:
-  next_url: https://example.com/project-template/manual?ip={{ip_address}}&name={{device_name}}&version={{esphome_version}}
