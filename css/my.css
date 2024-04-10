@@ -248,7 +248,8 @@
     overflow:auto
 }
 .markdown-body table th{
-    font-weight:600
+    font-weight:600;
+    color: red
 }
 .markdown-body table th,.markdown-body table td{
     padding:6px 13px;
